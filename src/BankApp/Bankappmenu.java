@@ -11,6 +11,7 @@ public class Bankappmenu {
         while(true){
 
             if (Indtast.nextInt() == 1){
+
             }
 
             if (Indtast.nextInt() == 2){
